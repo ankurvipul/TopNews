@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Top News</string>
+    <string name="no_internet">No internet</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="crash_toast_text">Oops ! App crashed, but a report has been sent to  developers to help fix the issue !</string>
+    <string name="top_new_sources">Top New Sources</string>
+    <string name="daily_feeds">Daily Feeds</string>
+    <string name="by">\nby\u0020</string>
+</resources>
